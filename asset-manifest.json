@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UserSearch/static/css/main.7edb7fba.css",
+    "main.js": "/UserSearch/static/js/main.1cf5deb2.js",
+    "index.html": "/UserSearch/index.html",
+    "main.7edb7fba.css.map": "/UserSearch/static/css/main.7edb7fba.css.map",
+    "main.1cf5deb2.js.map": "/UserSearch/static/js/main.1cf5deb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7edb7fba.css",
+    "static/js/main.1cf5deb2.js"
+  ]
+}
